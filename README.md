@@ -1,5 +1,3 @@
-# Temporal-Gradient-whitepaper
-Continuous Mining as a Security Primitive.
 # Temporal Gradient Whitepaper
 
 ## Continuous Mining as a Security Primitive
